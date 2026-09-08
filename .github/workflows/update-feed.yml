@@ -2,8 +2,9 @@ name: update feed
 
 on:
   schedule:
-    # every three hours; chrlauncher itself only checks every couple of days
-    - cron: "17 */3 * * *"
+    # once a day at 05:00 UTC, ahead of the watchdog routine at 06:30 UTC.
+    # chrlauncher itself only checks every couple of days, so this is plenty.
+    - cron: "0 5 * * *"
   workflow_dispatch:
   push:
     paths:

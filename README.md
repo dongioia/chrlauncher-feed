@@ -56,7 +56,7 @@ values are in [`api/chrlauncher/status.json`](api/chrlauncher/status.json).
 
 ## How it is built
 
-`scripts/build_feed.py` runs from GitHub Actions every three hours
+`scripts/build_feed.py` runs from GitHub Actions once a day at 05:00 UTC
 ([`update-feed.yml`](.github/workflows/update-feed.yml)). For each of the twelve
 architecture and type combinations it tries three things in order.
 
