@@ -1,0 +1,1 @@
+version=152.0.7977.55;download=https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip;timestamp=1787501651;sha256=767cceed3d9b241291b41345465d0273ccbabdc31e783cb88c01a937ec2417fe;size=309585911

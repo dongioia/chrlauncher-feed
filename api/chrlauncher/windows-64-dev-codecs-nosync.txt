@@ -1,0 +1,1 @@
+version=150.0.7871.252;download=https://github.com/macchrome/winchrome/releases/download/v150.7871.252-M150.0.7871.252-r1639810-Win64/ungoogled-chromium-150.0.7871.252-1_Win64.7z;timestamp=1787476068;revision=1639810;sha256=45c24bf07db006a813ca96e2f937fd5182b5ac6dec5baa85b0636bbe2f60766c;size=144517958

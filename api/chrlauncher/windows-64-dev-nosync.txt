@@ -1,0 +1,1 @@
+version=153.0.7993.0;download=https://github.com/RobRich999/Chromium_Clang/releases/download/v153.0.7993.0-r1674068-win64-avx2/chrome.zip;timestamp=1785939708;revision=1674068;sha256=9bbf2f77eb32454ce60e1d69ed82d334eba3f807ca6f6513a76d571cc78c70dd;size=201752993

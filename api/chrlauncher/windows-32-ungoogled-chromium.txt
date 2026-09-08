@@ -1,0 +1,1 @@
+version=152.0.7977.82;download=https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.82-1.1/ungoogled-chromium_152.0.7977.82-1.1_windows_x86.zip;timestamp=1788772680;sha256=db55b18462653d8f63a513cbf34fc159e6c79667e84381b58d74e47733e8de0c;size=179910144
