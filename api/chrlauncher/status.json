@@ -1,6 +1,6 @@
 {
-  "generated_at": 1788847523,
-  "generated_at_iso": "2026-09-08T06:05:23Z",
+  "generated_at": 1788945781,
+  "generated_at_iso": "2026-09-09T09:23:01Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -10,9 +10,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "155.0.8046.0",
-      "version": "155.0.8046.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1693506/chrome-win.zip",
-      "changed": false
+      "version": "155.0.8048.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1694295/chrome-win.zip",
+      "changed": true
     },
     {
       "arch": 32,
@@ -21,9 +21,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "155.0.8046.0",
-      "version": "155.0.8046.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1693508/chrome-win.zip",
-      "changed": false
+      "version": "155.0.8048.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1694294/chrome-win.zip",
+      "changed": true
     },
     {
       "arch": 64,
@@ -34,7 +34,7 @@
       "previous_version": "152.0.7977.83",
       "version": "152.0.7977.83",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v152.0.7977.83-r1669021/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -45,7 +45,7 @@
       "previous_version": "152.0.7977.55",
       "version": "152.0.7977.55",
       "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
@@ -56,7 +56,7 @@
       "previous_version": "153.0.7993.0",
       "version": "153.0.7993.0",
       "download": "https://github.com/RobRich999/Chromium_Clang/releases/download/v153.0.7993.0-r1674068-win64-avx2/chrome.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -65,9 +65,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "155.0.8046.0",
-      "version": "155.0.8046.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1693508/chrome-win.zip",
-      "changed": false
+      "version": "155.0.8048.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1694294/chrome-win.zip",
+      "changed": true
     },
     {
       "arch": 64,
@@ -78,7 +78,7 @@
       "previous_version": "152.0.7977.83",
       "version": "152.0.7977.83",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v152.0.7977.83-r1669021/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -89,46 +89,40 @@
       "previous_version": "152.0.7977.55",
       "version": "152.0.7977.55",
       "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
       "type": "dev-codecs-nosync",
       "source": "mirror",
       "errors": [],
-      "warnings": [
-        "upstream moved backwards: 152.0.7977.82 -> 150.0.7871.252"
-      ],
-      "previous_version": "152.0.7977.82",
+      "warnings": [],
+      "previous_version": "150.0.7871.252",
       "version": "150.0.7871.252",
       "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.252-M150.0.7871.252-r1639810-Win64/ungoogled-chromium-150.0.7871.252-1_Win64.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
       "type": "dev-codecs-nosync",
       "source": "mirror",
       "errors": [],
-      "warnings": [
-        "upstream moved backwards: 152.0.7977.82 -> 152.0.7977.55"
-      ],
-      "previous_version": "152.0.7977.82",
+      "warnings": [],
+      "previous_version": "152.0.7977.55",
       "version": "152.0.7977.55",
       "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
       "type": "ungoogled-chromium",
       "source": "mirror",
       "errors": [],
-      "warnings": [
-        "upstream moved backwards: 152.0.7977.82 -> 150.0.7871.252"
-      ],
-      "previous_version": "152.0.7977.82",
+      "warnings": [],
+      "previous_version": "150.0.7871.252",
       "version": "150.0.7871.252",
       "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.252-M150.0.7871.252-r1639810-Win64/ungoogled-chromium-150.0.7871.252-1_Win64.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -139,7 +133,7 @@
       "previous_version": "152.0.7977.82",
       "version": "152.0.7977.82",
       "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.82-1.1/ungoogled-chromium_152.0.7977.82-1.1_windows_x86.zip",
-      "changed": true
+      "changed": false
     }
   ],
   "ok": 12,
