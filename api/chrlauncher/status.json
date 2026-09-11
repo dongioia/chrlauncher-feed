@@ -1,6 +1,6 @@
 {
-  "generated_at": 1789032156,
-  "generated_at_iso": "2026-09-10T09:22:36Z",
+  "generated_at": 1789118448,
+  "generated_at_iso": "2026-09-11T09:20:48Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "155.0.8048.0",
-      "version": "155.0.8050.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1695129/chrome-win.zip",
+      "previous_version": "155.0.8050.0",
+      "version": "155.0.8052.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1695914/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "155.0.8048.0",
-      "version": "155.0.8050.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1695128/chrome-win.zip",
+      "previous_version": "155.0.8050.0",
+      "version": "155.0.8052.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1695572/chrome-win.zip",
       "changed": true
     },
     {
@@ -54,9 +54,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "153.0.7993.0",
-      "version": "153.0.7993.0",
-      "download": "https://github.com/RobRich999/Chromium_Clang/releases/download/v153.0.7993.0-r1674068-win64-avx2/chrome.zip",
-      "changed": false
+      "version": "155.0.8051.0",
+      "download": "https://github.com/RobRich999/Chromium_Clang/releases/download/v155.0.8051.0-r1695130-win64-avx2/chrome.zip",
+      "changed": true
     },
     {
       "arch": 32,
@@ -64,9 +64,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "155.0.8048.0",
-      "version": "155.0.8050.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1695128/chrome-win.zip",
+      "previous_version": "155.0.8050.0",
+      "version": "155.0.8052.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1695572/chrome-win.zip",
       "changed": true
     },
     {
