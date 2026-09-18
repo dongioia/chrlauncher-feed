@@ -1,1 +1,1 @@
-version=156.0.8063.0;download=https://storage.googleapis.com/chromium-browser-snapshots/Win/1699383/chrome-win.zip;timestamp=1789606443;revision=1699315;size=321241462
+version=156.0.8065.0;download=https://storage.googleapis.com/chromium-browser-snapshots/Win/1700301/chrome-win.zip;timestamp=1789690159;revision=1700138;size=321686299
