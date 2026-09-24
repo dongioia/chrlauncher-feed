@@ -1,6 +1,6 @@
 {
-  "generated_at": 1790156598,
-  "generated_at_iso": "2026-09-23T09:43:18Z",
+  "generated_at": 1790242913,
+  "generated_at_iso": "2026-09-24T09:41:53Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8069.0",
-      "version": "156.0.8070.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1702958/chrome-win.zip",
+      "previous_version": "156.0.8070.0",
+      "version": "156.0.8072.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1703924/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8069.0",
-      "version": "156.0.8070.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1702933/chrome-win.zip",
+      "previous_version": "156.0.8070.0",
+      "version": "156.0.8072.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704017/chrome-win.zip",
       "changed": true
     },
     {
@@ -31,10 +31,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "153.0.8010.53",
+      "previous_version": "154.0.8037.58",
       "version": "154.0.8037.58",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v154.0.8037.58-r1689415/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -43,9 +43,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "152.0.7977.55",
-      "version": "152.0.7977.55",
-      "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": false
+      "version": "154.0.8037.45",
+      "download": "https://github.com/gz83/thorium/releases/download/M154.0.8037.45/Thorium_WIN32_SSE2_154.0.8037.45.zip",
+      "changed": true
     },
     {
       "arch": 64,
@@ -66,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8069.0",
-      "version": "156.0.8070.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1702933/chrome-win.zip",
+      "previous_version": "156.0.8070.0",
+      "version": "156.0.8072.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704017/chrome-win.zip",
       "changed": true
     },
     {
@@ -77,10 +77,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "153.0.8010.53",
+      "previous_version": "154.0.8037.58",
       "version": "154.0.8037.58",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v154.0.8037.58-r1689415/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -89,9 +89,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "152.0.7977.55",
-      "version": "152.0.7977.55",
-      "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": false
+      "version": "154.0.8037.45",
+      "download": "https://github.com/gz83/thorium/releases/download/M154.0.8037.45/Thorium_WIN32_SSE2_154.0.8037.45.zip",
+      "changed": true
     },
     {
       "arch": 64,
@@ -111,9 +111,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "152.0.7977.55",
-      "version": "152.0.7977.55",
-      "download": "https://github.com/gz83/thorium/releases/download/M152.0.7977.55/Thorium_WIN32_SSE2_152.0.7977.55.zip",
-      "changed": false
+      "version": "154.0.8037.45",
+      "download": "https://github.com/gz83/thorium/releases/download/M154.0.8037.45/Thorium_WIN32_SSE2_154.0.8037.45.zip",
+      "changed": true
     },
     {
       "arch": 64,
