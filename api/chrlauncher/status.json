@@ -1,6 +1,6 @@
 {
-  "generated_at": 1790330344,
-  "generated_at_iso": "2026-09-25T09:59:04Z",
+  "generated_at": 1790415688,
+  "generated_at_iso": "2026-09-26T09:41:28Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8072.0",
+      "previous_version": "156.0.8074.0",
       "version": "156.0.8074.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1704457/chrome-win.zip",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1704712/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8072.0",
+      "previous_version": "156.0.8074.0",
       "version": "156.0.8074.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704572/chrome-win.zip",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704762/chrome-win.zip",
       "changed": true
     },
     {
@@ -66,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8072.0",
+      "previous_version": "156.0.8074.0",
       "version": "156.0.8074.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704572/chrome-win.zip",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1704762/chrome-win.zip",
       "changed": true
     },
     {
