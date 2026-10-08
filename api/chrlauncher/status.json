@@ -1,6 +1,6 @@
 {
-  "generated_at": 1791372633,
-  "generated_at_iso": "2026-10-07T11:30:33Z",
+  "generated_at": 1791459950,
+  "generated_at_iso": "2026-10-08T11:45:50Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8088.0",
-      "version": "157.0.8090.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1712956/chrome-win.zip",
+      "previous_version": "157.0.8090.0",
+      "version": "157.0.8093.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1714222/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8088.0",
-      "version": "157.0.8090.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1712873/chrome-win.zip",
+      "previous_version": "157.0.8090.0",
+      "version": "157.0.8093.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1714253/chrome-win.zip",
       "changed": true
     },
     {
@@ -66,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8088.0",
-      "version": "157.0.8090.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1712873/chrome-win.zip",
+      "previous_version": "157.0.8090.0",
+      "version": "157.0.8093.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1714253/chrome-win.zip",
       "changed": true
     },
     {
@@ -99,10 +99,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "150.0.7871.255",
+      "previous_version": "150.0.7871.256",
       "version": "150.0.7871.256",
       "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.256-M150.0.7871.256-r1639810-Win64/ungoogled-chromium-150.0.7871.256-1_Win64.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -121,10 +121,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "150.0.7871.255",
+      "previous_version": "150.0.7871.256",
       "version": "150.0.7871.256",
       "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.256-M150.0.7871.256-r1639810-Win64/ungoogled-chromium-150.0.7871.256-1_Win64.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -132,10 +132,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "154.0.8037.92",
+      "previous_version": "154.0.8037.97",
       "version": "154.0.8037.97",
       "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/154.0.8037.97-1.1/ungoogled-chromium_154.0.8037.97-1.1_windows_x86.zip",
-      "changed": true
+      "changed": false
     }
   ],
   "ok": 12,
