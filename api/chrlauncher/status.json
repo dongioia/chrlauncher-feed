@@ -1,6 +1,6 @@
 {
-  "generated_at": 1791629778,
-  "generated_at_iso": "2026-10-10T10:56:18Z",
+  "generated_at": 1791717077,
+  "generated_at_iso": "2026-10-11T11:11:17Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8095.0",
-      "version": "157.0.8097.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1716304/chrome-win.zip",
+      "previous_version": "157.0.8097.0",
+      "version": "157.0.8098.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1716423/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8095.0",
-      "version": "157.0.8097.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1716292/chrome-win.zip",
+      "previous_version": "157.0.8097.0",
+      "version": "157.0.8098.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1716419/chrome-win.zip",
       "changed": true
     },
     {
@@ -32,9 +32,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "154.0.8037.98",
-      "version": "154.0.8037.98",
-      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v154.0.8037.98-r1689415/chrome.7z",
-      "changed": false
+      "version": "155.0.8059.40",
+      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v155.0.8059.40-r1697595/chrome.7z",
+      "changed": true
     },
     {
       "arch": 32,
@@ -66,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8095.0",
-      "version": "157.0.8097.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1716292/chrome-win.zip",
+      "previous_version": "157.0.8097.0",
+      "version": "157.0.8098.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1716419/chrome-win.zip",
       "changed": true
     },
     {
@@ -78,9 +78,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "154.0.8037.98",
-      "version": "154.0.8037.98",
-      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v154.0.8037.98-r1689415/chrome.7z",
-      "changed": false
+      "version": "155.0.8059.40",
+      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v155.0.8059.40-r1697595/chrome.7z",
+      "changed": true
     },
     {
       "arch": 32,
@@ -100,9 +100,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "150.0.7871.256",
-      "version": "150.0.7871.256",
-      "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.256-M150.0.7871.256-r1639810-Win64/ungoogled-chromium-150.0.7871.256-1_Win64.7z",
-      "changed": false
+      "version": "154.0.8037.45",
+      "download": "https://github.com/gz83/thorium/releases/download/M154.0.8037.45/Thorium_AVX2_154.0.8037.45.zip",
+      "changed": true
     },
     {
       "arch": 32,
@@ -122,9 +122,9 @@
       "errors": [],
       "warnings": [],
       "previous_version": "150.0.7871.256",
-      "version": "150.0.7871.256",
-      "download": "https://github.com/macchrome/winchrome/releases/download/v150.7871.256-M150.0.7871.256-r1639810-Win64/ungoogled-chromium-150.0.7871.256-1_Win64.7z",
-      "changed": false
+      "version": "154.0.8037.97",
+      "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/154.0.8037.97-1.1/ungoogled-chromium_154.0.8037.97-1.1_windows_x64.zip",
+      "changed": true
     },
     {
       "arch": 32,
