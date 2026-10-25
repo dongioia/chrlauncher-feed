@@ -1,1 +1,1 @@
-version=156.0.8078.28;download=https://github.com/gz83/thorium/releases/download/M156.0.8078.28/Thorium_AVX2_156.0.8078.28.zip;timestamp=1791729121;sha256=cdd502a93ff21db45627a22e39c1a5ce9816f0f30fabc504fddf59a44d59d6d2;size=366655400
+version=156.0.8078.48;download=https://github.com/macchrome/winchrome/releases/download/156.8078.48-M156.0.8078.48-r1706539-Win64/ungoogled-chromium-156.0.8078.48-1_Win64.7z;timestamp=1792841365;revision=1706539;sha256=2e8080ae15bb8c7729d71daf80abbc0df75100d8865c1b9df5bd40acf5323b30;size=150716660
