@@ -1,6 +1,6 @@
 {
-  "generated_at": 1793011493,
-  "generated_at_iso": "2026-10-26T10:44:53Z",
+  "generated_at": 1793095894,
+  "generated_at_iso": "2026-10-27T10:11:34Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8123.0",
-      "version": "158.0.8125.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1726714/chrome-win.zip",
+      "previous_version": "158.0.8125.0",
+      "version": "159.0.8128.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1727802/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8123.0",
-      "version": "158.0.8125.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1726718/chrome-win.zip",
+      "previous_version": "158.0.8125.0",
+      "version": "159.0.8128.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1727783/chrome-win.zip",
       "changed": true
     },
     {
@@ -66,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8123.0",
-      "version": "158.0.8125.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1726718/chrome-win.zip",
+      "previous_version": "158.0.8125.0",
+      "version": "159.0.8128.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1727783/chrome-win.zip",
       "changed": true
     },
     {
@@ -132,10 +132,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "155.0.8059.84",
+      "previous_version": "156.0.8078.47",
       "version": "156.0.8078.47",
       "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.47-1.1/ungoogled-chromium_156.0.8078.47-1.1_windows_x86.zip",
-      "changed": true
+      "changed": false
     }
   ],
   "ok": 12,
