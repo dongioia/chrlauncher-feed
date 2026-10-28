@@ -1,6 +1,6 @@
 {
-  "generated_at": 1793095894,
-  "generated_at_iso": "2026-10-27T10:11:34Z",
+  "generated_at": 1793185024,
+  "generated_at_iso": "2026-10-28T10:57:04Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8125.0",
-      "version": "159.0.8128.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1727802/chrome-win.zip",
+      "previous_version": "159.0.8128.0",
+      "version": "159.0.8129.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1728808/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8125.0",
+      "previous_version": "159.0.8128.0",
       "version": "159.0.8128.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1727783/chrome-win.zip",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1728800/chrome-win.zip",
       "changed": true
     },
     {
@@ -50,15 +50,13 @@
     {
       "arch": 64,
       "type": "dev-nosync",
-      "source": "native",
-      "errors": [
-        "mirror: HTTPError: HTTP Error 404: Not Found"
-      ],
+      "source": "mirror",
+      "errors": [],
       "warnings": [],
       "previous_version": "155.0.8051.0",
       "version": "155.0.8051.0",
       "download": "https://github.com/RobRich999/Chromium_Clang/releases/download/v155.0.8051.0-r1695130-win64-avx2/chrome.zip",
-      "changed": false
+      "changed": true
     },
     {
       "arch": 32,
@@ -66,9 +64,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "158.0.8125.0",
+      "previous_version": "159.0.8128.0",
       "version": "159.0.8128.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1727783/chrome-win.zip",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1728800/chrome-win.zip",
       "changed": true
     },
     {
@@ -141,7 +139,5 @@
   "ok": 12,
   "total": 12,
   "degraded": [],
-  "fell_back_to_native": [
-    "windows-64-dev-nosync"
-  ]
+  "fell_back_to_native": []
 }
