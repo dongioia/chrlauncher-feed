@@ -1,1 +1,1 @@
-version=157.0.8103.78;download=https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/157.0.8103.78-1.1/ungoogled-chromium_157.0.8103.78-1.1_windows_x86.zip;timestamp=1794787098;size=193182312
+version=158.0.8127.41;download=https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip;timestamp=1795080062;sha256=c3851605386e33f72275a79501f9966084d9cb8dc032693404de21df8d87dbe6;size=346811831

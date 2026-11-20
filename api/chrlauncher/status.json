@@ -1,6 +1,6 @@
 {
-  "generated_at": 1795097168,
-  "generated_at_iso": "2026-11-19T14:06:08Z",
+  "generated_at": 1795182522,
+  "generated_at_iso": "2026-11-20T13:48:42Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "159.0.8147.0",
-      "version": "160.0.8172.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1749113/chrome-win.zip",
+      "previous_version": "160.0.8172.0",
+      "version": "160.0.8174.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1750247/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "159.0.8147.0",
-      "version": "160.0.8172.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1749115/chrome-win.zip",
+      "previous_version": "160.0.8172.0",
+      "version": "160.0.8174.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1750307/chrome-win.zip",
       "changed": true
     },
     {
@@ -31,9 +31,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8103.39",
-      "version": "157.0.8103.79",
-      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v157.0.8103.79-r1717349/chrome.7z",
+      "previous_version": "157.0.8103.79",
+      "version": "158.0.8127.37",
+      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.37-r1727472/chrome.7z",
       "changed": true
     },
     {
@@ -41,10 +41,12 @@
       "type": "stable-codecs-sync",
       "source": "mirror",
       "errors": [],
-      "warnings": [],
-      "previous_version": "156.0.8078.28",
-      "version": "160.0.8172.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1749115/chrome-win.zip",
+      "warnings": [
+        "upstream moved backwards: 160.0.8172.0 -> 158.0.8127.41"
+      ],
+      "previous_version": "160.0.8172.0",
+      "version": "158.0.8127.41",
+      "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
       "changed": true
     },
     {
@@ -64,9 +66,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "159.0.8147.0",
-      "version": "160.0.8172.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1749115/chrome-win.zip",
+      "previous_version": "160.0.8172.0",
+      "version": "160.0.8174.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1750307/chrome-win.zip",
       "changed": true
     },
     {
@@ -75,23 +77,21 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8103.39",
-      "version": "157.0.8103.79",
-      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v157.0.8103.79-r1717349/chrome.7z",
+      "previous_version": "157.0.8103.79",
+      "version": "158.0.8127.37",
+      "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.37-r1727472/chrome.7z",
       "changed": true
     },
     {
       "arch": 32,
       "type": "dev-codecs-sync",
-      "source": "stale",
-      "errors": [
-        "mirror: HTTPError: HTTP Error 404: Not Found",
-        "native: LookupError: gz83/thorium: no matching asset in release M158.0.8127.41"
-      ],
+      "source": "mirror",
+      "errors": [],
       "warnings": [],
       "previous_version": "156.0.8078.28",
-      "version": "156.0.8078.28",
-      "changed": false
+      "version": "158.0.8127.41",
+      "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
+      "changed": true
     },
     {
       "arch": 64,
@@ -100,21 +100,19 @@
       "errors": [],
       "warnings": [],
       "previous_version": "156.0.8078.84",
-      "version": "156.0.8078.84",
-      "download": "https://github.com/macchrome/winchrome/releases/download/v156.8078.84-M156.0.8078.84-r1706539-Win64/ungoogled-chromium-156.0.8078.84-1_Win64.7z",
-      "changed": false
+      "version": "158.0.8127.41",
+      "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_AVX2_158.0.8127.41.zip",
+      "changed": true
     },
     {
       "arch": 32,
       "type": "dev-codecs-nosync",
-      "source": "native",
-      "errors": [
-        "mirror: HTTPError: HTTP Error 404: Not Found"
-      ],
+      "source": "mirror",
+      "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8078.28",
-      "version": "157.0.8103.78",
-      "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/157.0.8103.78-1.1/ungoogled-chromium_157.0.8103.78-1.1_windows_x86.zip",
+      "previous_version": "157.0.8103.78",
+      "version": "158.0.8127.41",
+      "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
       "changed": true
     },
     {
@@ -123,10 +121,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8078.84",
+      "previous_version": "157.0.8103.78",
       "version": "157.0.8103.78",
       "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/157.0.8103.78-1.1/ungoogled-chromium_157.0.8103.78-1.1_windows_x64.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -134,18 +132,14 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8078.79",
+      "previous_version": "157.0.8103.78",
       "version": "157.0.8103.78",
       "download": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/157.0.8103.78-1.1/ungoogled-chromium_157.0.8103.78-1.1_windows_x86.zip",
-      "changed": true
+      "changed": false
     }
   ],
-  "ok": 11,
+  "ok": 12,
   "total": 12,
-  "degraded": [
-    "windows-32-dev-codecs-sync"
-  ],
-  "fell_back_to_native": [
-    "windows-32-dev-codecs-nosync"
-  ]
+  "degraded": [],
+  "fell_back_to_native": []
 }

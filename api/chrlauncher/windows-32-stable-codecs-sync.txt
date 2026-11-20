@@ -1,1 +1,1 @@
-version=160.0.8172.0;download=https://storage.googleapis.com/chromium-browser-snapshots/Win/1749115/chrome-win.zip;timestamp=1795082392;revision=1749059;size=340879208
+version=158.0.8127.41;download=https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip;timestamp=1795080062;sha256=c3851605386e33f72275a79501f9966084d9cb8dc032693404de21df8d87dbe6;size=346811831
