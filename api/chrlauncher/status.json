@@ -1,6 +1,6 @@
 {
-  "generated_at": 1795182522,
-  "generated_at_iso": "2026-11-20T13:48:42Z",
+  "generated_at": 1795266805,
+  "generated_at_iso": "2026-11-21T13:13:25Z",
   "upstream": "https://chromiumbuilds.org/api/chrlauncher/windows-{arch}-{kind}.txt",
   "entries": [
     {
@@ -9,9 +9,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "160.0.8172.0",
-      "version": "160.0.8174.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1750247/chrome-win.zip",
+      "previous_version": "160.0.8174.0",
+      "version": "160.0.8176.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1751240/chrome-win.zip",
       "changed": true
     },
     {
@@ -20,9 +20,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "160.0.8172.0",
-      "version": "160.0.8174.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1750307/chrome-win.zip",
+      "previous_version": "160.0.8174.0",
+      "version": "160.0.8176.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1751240/chrome-win.zip",
       "changed": true
     },
     {
@@ -31,23 +31,21 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8103.79",
+      "previous_version": "158.0.8127.37",
       "version": "158.0.8127.37",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.37-r1727472/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
       "type": "stable-codecs-sync",
       "source": "mirror",
       "errors": [],
-      "warnings": [
-        "upstream moved backwards: 160.0.8172.0 -> 158.0.8127.41"
-      ],
-      "previous_version": "160.0.8172.0",
+      "warnings": [],
+      "previous_version": "158.0.8127.41",
       "version": "158.0.8127.41",
       "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
@@ -66,9 +64,9 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "160.0.8172.0",
-      "version": "160.0.8174.0",
-      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1750307/chrome-win.zip",
+      "previous_version": "160.0.8174.0",
+      "version": "160.0.8176.0",
+      "download": "https://storage.googleapis.com/chromium-browser-snapshots/Win/1751240/chrome-win.zip",
       "changed": true
     },
     {
@@ -77,10 +75,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8103.79",
+      "previous_version": "158.0.8127.37",
       "version": "158.0.8127.37",
       "download": "https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.37-r1727472/chrome.7z",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -88,10 +86,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8078.28",
+      "previous_version": "158.0.8127.41",
       "version": "158.0.8127.41",
       "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
@@ -99,10 +97,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "156.0.8078.84",
+      "previous_version": "158.0.8127.41",
       "version": "158.0.8127.41",
       "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_AVX2_158.0.8127.41.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 32,
@@ -110,10 +108,10 @@
       "source": "mirror",
       "errors": [],
       "warnings": [],
-      "previous_version": "157.0.8103.78",
+      "previous_version": "158.0.8127.41",
       "version": "158.0.8127.41",
       "download": "https://github.com/gz83/thorium/releases/download/M158.0.8127.41/Thorium_WIN32_SSE2_158.0.8127.41.zip",
-      "changed": true
+      "changed": false
     },
     {
       "arch": 64,
