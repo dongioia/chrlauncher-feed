@@ -1,1 +1,1 @@
-version=158.0.8127.37;download=https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.37-r1727472/chrome.7z;timestamp=1795119311;revision=1727472;sha256=cd62b2333fee38f42dd7d02980ec1902ba70608863d8d7354cd0cdc2f9efa7e4;size=458391856
+version=158.0.8127.89;download=https://github.com/Hibbiki/chromium-win64/releases/download/v158.0.8127.89-r1727472/chrome.7z;timestamp=1795566813;revision=1727472;sha256=30793da724186e3f3eb5114c840677ccf1a95cd85cac3cecb35c7addf11c7c3a;size=458401321
